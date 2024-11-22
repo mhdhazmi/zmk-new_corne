@@ -14,7 +14,7 @@ layers:
   - O
   - P
   - {t: '$$mdi:backspace$$', type: backspace}
-  - $$mdi:apple-keyboard-option$$
+  - $$mdi:apple-keyboard-command$$
   - A
   - S
   - D
@@ -42,7 +42,7 @@ layers:
   - $$mdi:keyboard-esc$$
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-shift$$
-  - $$mdi:apple-keyboard-command$$
+  - NUMBER
   - {t: '$$mdi:keyboard-space$$', h: FN}
   - $$mdi:arrow-right-bold$$
   - {t: '$$mdi:keyboard-return$$', h: FN}
@@ -91,7 +91,7 @@ layers:
   - PG DN
   - $$mdi:volume-off$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - INS
